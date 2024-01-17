@@ -1,0 +1,13 @@
+{
+  "name": "@eoghanmccarthy/styling",
+  "version": "1.0.0",
+  "description": "Common styling for my projects.",
+  "author": "Eoghan McCarthy <eoghanmccarthy@outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoghanmccarthy/styling.git"
+  },
+  "main": "index.css",
+  "keywords": [],
+  "license": "MIT"
+}
